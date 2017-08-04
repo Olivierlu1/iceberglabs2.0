@@ -1,0 +1,192 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 10%;
+}
+
+.iceberg {
+  height: 300px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titlepage {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  font-weight: bold;
+  margin: auto;
+  position: absolute;
+  top: 150px;
+  width: 100%;
+  z-index: 100;
+}
+.titlepage2 {
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  margin: auto;
+  position: absolute;
+  top: 190px;
+  width: 100%;
+  z-index: 100;
+}
+
+#firstimg {
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+.header-text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+#about-us {
+
+}
+
+.paragraph-text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-weight: 100;
+  font-size: 20px;
+}
+
+#our-work {
+  margin-top: 150px;
+  background-color: #46788a;
+  color: white;
+  width: 100%;
+  height: 400px;
+}
+
+.pfo {
+  width: 200px;
+  height: auto;
+  margin-left: 170px;
+  margin-top: 60px;
+}
+
+.pfo-header {
+  position: relative;
+  top: 70px;
+  left: 150px;
+}
+
+.pfo-paragraph {
+  position: relative;
+  bottom: 160px;
+  left: 180px;
+  line-height: 40px;
+}
+
+.pfo-text-span {
+  position: relative;
+  right: 38px;
+}
+
+.pfo-text-span2 {
+  position: relative;
+  right: 45px;
+}
+
+.btn.outline {
+    background: none;
+    padding: 12px 22px;
+}
+.btn-primary.outline {
+    border: 2px solid #0099cc;
+    color: white;
+}
+.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+    color: #33a6cc;
+    border-color: #33a6cc;
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+    border-color: #007299;
+    color: #007299;
+    box-shadow: none;
+}
+
+.viewproject {
+  position: relative;
+  bottom: 125px;
+  left: 840px;
+}
+
+.quote {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 30px;
+  text-align: center;
+  height: 300px;
+}
+
+.quote-text, .quote-person {
+  padding-top: 90px;
+}
+
+.quote-text {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 37px;
+}
+
+.quote-person {
+  padding-top: 7px;
+  font-size: 19px;
+  color: gray;
+}
+
+.quote-manage {
+  position: relative;
+  bottom: 22px;
+}
+
+#our-work2 {
+padding-top: 70px;
+background-color: #2d3447;
+color: white;
+width: 100%;
+height: 400px;
+}
+
+.tt-header, .tt-paragraph {
+  position: relative;
+  left: 130px;
+}
+
+.tt-paragraph {
+  position: relative;
+  bottom: 164px;
+  line-height: 40px;
+}
+
+.ttbc {
+  width:250px;
+  height: auto;
+  position: relative;
+  bottom: 20px;
+  left: 100px;
+}
+
+.ttbc-span {
+  position: relative;
+  right: 22px;
+}
+
+.ttbc-span2 {
+  position: relative;
+  right: 322px;
+}
+
+.viewproject2 {
+  position: relative;
+  bottom: 140px;
+  left: 840px;
+}
